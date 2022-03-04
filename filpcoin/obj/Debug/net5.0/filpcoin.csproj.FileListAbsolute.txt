@@ -1,0 +1,5 @@
+C:\Users\churchill paul\source\repos\filpcoin\filpcoin\obj\Debug\net5.0\filpcoin.csproj.AssemblyReference.cache
+C:\Users\churchill paul\source\repos\filpcoin\filpcoin\obj\Debug\net5.0\filpcoin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\churchill paul\source\repos\filpcoin\filpcoin\obj\Debug\net5.0\filpcoin.AssemblyInfoInputs.cache
+C:\Users\churchill paul\source\repos\filpcoin\filpcoin\obj\Debug\net5.0\filpcoin.AssemblyInfo.cs
+C:\Users\churchill paul\source\repos\filpcoin\filpcoin\obj\Debug\net5.0\filpcoin.csproj.CoreCompileInputs.cache
